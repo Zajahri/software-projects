@@ -1,3 +1,3 @@
 # software-projects
-My React Projects
+My React Project
 basic todolist app
